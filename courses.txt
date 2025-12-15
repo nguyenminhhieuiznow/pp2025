@@ -1,0 +1,3 @@
+MATH101,Calculus,3
+PHYS101,Physics,4
+PROG101,Programming,3
